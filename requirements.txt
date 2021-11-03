@@ -2,6 +2,5 @@ sklearn
 typing
 pydantic
 fastapi
-pickle
+pandas
 uvicorn
-
